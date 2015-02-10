@@ -1,3 +1,19 @@
+
+
+http://joshmccall221.github.io/barryclark-jekyll-now/
+
+*note*: currently redirects to dev.joshuamccall.com as expected. 
+- DNS and CNAME magic ;)
+
+#TODO:
+
+- do cool stuff
+- Incorporate into http://joshmccall221.github.io
+
+
+
+
+
 # Jekyll Now
 
 **Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
